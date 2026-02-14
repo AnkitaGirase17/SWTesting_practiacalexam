@@ -1,0 +1,23 @@
+Section A
+1. Rapido-book ride
+Scenario 
+1. Verify the After add pickup location with a valid user account, book a ride Suceesfully
+2. Verify the pick up location Add Sucessfully
+
+ 2. Udemy-Certificate download
+1.Verify the Course duration and clips should be completed 
+2. Verify the Course amount is paid 
+
+3.Instagram like and Comment
+1. Verify that the like and comment number is added to the data successfully
+2.Verify the like and comment is diplaying/visisble on the reel/post
+
+4.SBI yono app account statement download
+1.Verify the account of the user is with correct MPIN
+2.Verify The msg should be display on successful download
+
+5.Zomato search dishes
+Scenarios 
+1. verify The Dish name is contains only characters.
+2.verify the Dish name not contain only numbers.
+3.verify the dish name not contain only special characters.
